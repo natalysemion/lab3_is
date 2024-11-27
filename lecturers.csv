@@ -1,0 +1,9 @@
+lecturer_id,subject_id,can_teach_lecture,can_teach_practice
+1,Math,Yes,No
+2,Physics,Yes,Yes
+3,History,No,Yes
+4,Chemistry,Yes,No
+5,English,Yes,Yes
+1,Physics,Yes,No
+2,Math,Yes,Yes
+3,Math,No,Yes

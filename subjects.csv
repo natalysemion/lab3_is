@@ -1,0 +1,11 @@
+group_id,subject_id,hours_per_semester,type
+1,Math,30,лекція
+1,Physics,15,практичне
+2,Math,30,лекція
+2,History,20,практичне
+3,Chemistry,25,лекція
+3,Math,20,практичне
+4,Physics,25,лекція
+4,English,20,практичне
+5,Math,30,лекція
+5,History,15,практичне
